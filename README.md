@@ -12,5 +12,5 @@ https://github.com/mhajij/Generalized_K-means_on_Graphs_Using_PageRank
 https://github.com/orlovskiy-artem/graph-clustering<br/>
 https://github.com/PetarV-/Machine-Learning/blob/master/Clustering/Markov%20Clustering.cpp<br/>
 
-https://towardsdatascience.com/spectral-graph-clustering-and-optimal-number-of-clusters-estimation-32704189afbe
+https://towardsdatascience.com/spectral-graph-clustering-and-optimal-number-of-clusters-estimation-32704189afbe<br/>
 
