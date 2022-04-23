@@ -1,7 +1,7 @@
 # GTA
 
 Graph clustering algorithms 8 imp algo<br/>
-report<br/>
+report, slides<br/>
 
 https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/node-classification/rgcn-node-classification.ipynb
 https://www.youtube.com/watch?v=Ys6VdaRguYU
