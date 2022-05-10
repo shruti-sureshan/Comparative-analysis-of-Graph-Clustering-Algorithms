@@ -1,18 +1,5 @@
-# GTA
+# Comparative analysis of Graph Clustering Algorithms
 
-Comparative analysis of Graph Clustering Algorithms<br/>
-Graph clustering algorithms 8 imp algo<br/>
-report, slides<br/>
 
-https://colab.research.google.com/github/stellargraph/stellargraph/blob/master/demos/node-classification/rgcn-node-classification.ipynb
-https://www.youtube.com/watch?v=Ys6VdaRguYU
-
-https://www.youtube.com/watch?v=V4E0RirHZEI
-
-https://github.com/trueprice/python-graph-clustering
-https://github.com/mhajij/Generalized_K-means_on_Graphs_Using_PageRank
-https://github.com/orlovskiy-artem/graph-clustering<br/>
-https://github.com/PetarV-/Machine-Learning/blob/master/Clustering/Markov%20Clustering.cpp<br/>
-
-https://towardsdatascience.com/spectral-graph-clustering-and-optimal-number-of-clusters-estimation-32704189afbe<br/>
+Graph clustering is a way of grouping data by forms of graph in a way that the elements are related by some similarity measure. Graph clustering falls under the category of graph mining algorithms. It has received lot of attention from the research community in the recent years. In this project, we have done a detailed study on graph clustering, the methods by which they are classified, and studied certain algorithms that play a vital role in clustering. We understood the Minimum Spanning Tree(MST) based clustering algorithm, Hierarchical Agglomerative Clustering algorithm, Markov clustering algorithm, Spectral Clustering, Shared Nearest Neighbor(SNN) Clustering, Betweenness Centrality, Maximal Clique Enumeration and Kernel K-means clustering. We have also implemented some of the algorithms like Minimum Spanning tree based clustering, Markov clustering, Spectral Clustering. These graph clustering algorithms can be used in various fields, including bioinformatics, community detection, computer network analysis, social network analysis etc.
 
